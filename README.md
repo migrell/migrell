@@ -8,6 +8,9 @@ HI._. 👋
 </div>
 
 
+[![migrell's github stats](https://github-readme-stats.vercel.app/api?username=migrell&count_private=true&custom_title=migrell's%20github&bg_color=30,c9b6e4,e4b7d4&title_color=ffffff&text_color=ffffff&hide_border=true)](https://github.com/migrell)
+
+
 
 
 
