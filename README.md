@@ -2,10 +2,20 @@ HI._. 👋
 
 
 
-<a href="①버튼을 눌렀을 때 이동할 링크" target="https://github.com/migrell">
-<img src="https://img.shields.io/badge/②뱃지레이블-③배경색?style=④뱃지모양&logo=⑤로고&logoColor=로고색상"/></a>
+<!-- Verilog Badge -->
+<a href="https://github.com/migrell?tab=repositories&q=verilog" target="_blank">
+  <img src="https://img.shields.io/badge/Verilog-%23000000.svg?style=for-the-badge&logo=Verilog&logoColor=white" />
+</a>
 
+<!-- Python Badge -->
+<a href="https://github.com/yourusername?tab=repositories&q=python" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
 
+<!-- C Badge -->
+<a href="https://github.com/yourusername?tab=repositories&q=c" target="_blank">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</a>
 
 
 
