@@ -14,6 +14,26 @@ HI._. 👋
 
 
 
+name: Productive-box
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "*/10 * * * *"
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update gist
+        uses: migrell/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: 9e2ea60d6183f5736080bad839463b51
+          TIMEZONE: Asia/Seoul
+
+
+
 
 
 
