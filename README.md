@@ -1,4 +1,4 @@
-HI._. 👋
+
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migrell&layout=compact&title_color=4285F4&bg_color=FAFAFF&text_color=697689&custom_title=Most%20Used%20Languages&card_width=445&langs_count=10&hide=jupyter%20notebook)](https://github.com/migrell)
 <!-- Language Badges -->
